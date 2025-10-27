@@ -56,7 +56,7 @@ This project provides insight into the robustness and stability of directed netw
 # Stability and Connectivity in Directed Random Graphs
 
 ## Project Description
-This project investigates the stability of strongly connected components (SCCs) and typical distances in **directed random graphs** under arc addition/removal perturbations. We simulate two graph models — **Erdős–Rényi (ER)** and **Directed Configuration Model (DCM)** — across varying network sizes and densities. By measuring SCC sizes, average distances, and diameters under perturbations, we provide insights into network connectivity stability.
+This project investigates the stability of strongly connected components (SCCs) and typical distances in **directed random graphs** under arc addition/removal perturbations. We simulate two graph models, **Erdős–Rényi (ER)** and **Directed Configuration Model (DCM)** across varying network sizes and densities. By measuring SCC sizes, average distances, and diameters under perturbations, we provide insights into network connectivity stability.
 
 ## Research Alignment
 - **Stability and directed networks** (Mariana Olvera-Cravioto)  
