@@ -4,9 +4,9 @@
 This project investigates the stability of strongly connected components (SCCs) and typical distances in **directed random graphs** under arc addition/removal perturbations. We simulate two graph models, **Erdős–Rényi (ER)** and **Directed Configuration Model (DCM)** across varying network sizes and densities. By measuring SCC sizes, average distances, and diameters under perturbations, we provide insights into network connectivity stability.
 
 ## Research Alignment
-- **Stability and directed networks** (Mariana Olvera-Cravioto)  
-- **High-dimensional, time-series, and network modeling** (Vladas Pipiras)  
-- **Probability theory, interacting particle systems, and stochastic modeling** (Vidyadhar G. Kulkarni)  
+- **Stability and directed networks** 
+- **High-dimensional, time-series, and network modeling** 
+- **Probability theory, interacting particle systems, and stochastic modeling** 
 
 ## Methodology
 
